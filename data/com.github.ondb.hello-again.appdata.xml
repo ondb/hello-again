@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Copyright 2018 Onder Bakirtas <ondb.me@gmail.com> -->
+<component>
+  <id>com.github.ondb.hello-again</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello Again World</name>
+  <summary>We are gonna be conquerors</summary>
+  <description>
+    <p>Is this real, am I creating GTK apps with Vala?</p>
+  </description>
+  <custom>
+     <value key="x-appcenter-color-primary">#00528E</value>
+     <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+     <value key="x-appcenter-suggested-price">0</value>
+  </custom>
+</component>

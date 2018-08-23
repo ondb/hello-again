@@ -1,0 +1,9 @@
+# ninja log v5
+0	419	1535019730	com.github.ondb.hello-again@exe/src/Application.c	97ca957801ff184d
+419	709	1535019730	com.github.ondb.hello-again@exe/meson-generated_src_Application.c.o	1e885a7d2afaf891
+711	913	1535019731	com.github.ondb.hello-again	66ac1f02cd49362d
+2	263	0	meson-install	53600e727b7b3a6c
+0	359	1535020943	build.ninja	d594409134418b92
+0	628	0	meson-com.github.ondb.hello-again-pot	26c0666045c0bc45
+0	605	0	meson-com.github.ondb.hello-again-pot	26c0666045c0bc45
+0	618	0	meson-com.github.ondb.hello-again-update-po	3faeb26728a46072
